@@ -1,0 +1,3 @@
+Hello World!
+This is my first commit on GITHUB.
+I am going to create a file named danish.txt
